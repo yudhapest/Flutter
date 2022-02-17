@@ -4,15 +4,15 @@ Mostre merupakan aplikasi yang dibentuk untuk menyelesainkan tugas submission di
 
 ## Cara Penggunaan Project
 
-- Download Project kemudian jalankan perintah berikut 
+ * [x] Download Project kemudian jalankan perintah berikut 
 ``` 
 flutter pub get
 ```
-- Maka project telah siap dijalankan dengan klik Run
+ * [x] Maka project telah siap dijalankan dengan klik Run
 
 ## Halaman Aplikasi
-- Home Page
-- Detail Page
+ * [x] Home Page
+ * [x] Detail Page
 
 ## Tampilan APlikasi
 <img src="https://user-images.githubusercontent.com/88072585/154419125-18a3e67b-9259-4ec1-80e4-ad8ea5b6e0fa.jpg"
@@ -21,18 +21,19 @@ width="256">
 width="256">
 
 ## Project Scope
-- Aplikasi ini berfokus pada sistem operasi android
+ * [x] Aplikasi ini berfokus pada sistem operasi android
 
 ## Resources
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [GitHub Documentation](https://docs.github.com/en)
-- [Figma](https://www.figma.com/)
-- [Dribbble](https://dribbble.com/)
-- [Material Design](https://material.io/design)
-- [Stackoverflow](https://stackoverflow.com/)
-- [Dicoding](https://www.dicoding.com/)
+ * [x] [Flutter Documentation](https://docs.flutter.dev/)
+ * [x] [GitHub Documentation](https://docs.github.com/en)
+ * [x] [Figma](https://www.figma.com/)
+ * [x] [Dribbble](https://dribbble.com/)
+ * [x] [Material Design](https://material.io/design)
+ * [x] [Stackoverflow](https://stackoverflow.com/)
+ * [x] [Dicoding](https://www.dicoding.com/)
 
 ## Library
-- [cupertino_icons](https://pub.dev/packages/cupertino_icons),
-- [google_fonts](https://pub.dev/packages/google_fonts)
-- [provider](https://pub.dev/packages/provider)
+ * [x] [cupertino_icons](https://pub.dev/packages/cupertino_icons),
+ * [x] [google_fonts](https://pub.dev/packages/google_fonts)
+ * [x] [provider](https://pub.dev/packages/provider)
+ * [x] [http](https://pub.dev/packages/http)
