@@ -5,7 +5,8 @@ import 'package:http/http.dart' as http;
 import 'package:mostre/models/movie.dart';
 
 class MovieProvider extends ChangeNotifier {
-  final String apiUrl = 'assets/film.json';
+  final String apiUrl =
+      'https://raw.githubusercontent.com/yudhapest/dummy-api/main/film.json';
 
   getRecommendedMovie() async {
     var result = await http.get(Uri.parse(apiUrl));

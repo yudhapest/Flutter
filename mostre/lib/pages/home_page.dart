@@ -1,5 +1,3 @@
-// ignore_for_file: override_on_non_overriding_member
-
 import 'package:flutter/material.dart';
 import 'package:mostre/models/movie.dart';
 import 'package:mostre/models/poster.dart';
@@ -119,6 +117,7 @@ class _HomePageState extends State<HomePage> {
             header(),
             popular(),
             popularMovie(),
+            newMovieTitle(),
             Column(
               children: [
                 Container(
