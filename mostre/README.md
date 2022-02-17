@@ -1,16 +1,32 @@
-# mostre
+# Mostre
+### Aplikasi Rekomendasi Film
+Mostre merupakan aplikasi yang dibentuk untuk menyelesainkan tugas submission dicoding Flutter Pemula. Berlatar belakang Film yang menurut developer bagus.
 
-A new Flutter project.
+## Cara Penggunaan Project
 
-## Getting Started
+- Download Project kemudian jalankan perintah berikut 
+``` 
+flutter pub get
+```
+- Maka project telah siap dijalankan dengan klik Run
 
-This project is a starting point for a Flutter application.
+## Halaman Aplikasi
+- Home Page
+- Detail Page
 
-A few resources to get you started if this is your first Flutter project:
+## Project Scope
+- Aplikasi ini berfokus pada sistem operasi android
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Resources
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [GitHub Documentation](https://docs.github.com/en)
+- [Figma](https://www.figma.com/)
+- [Dribbble](https://dribbble.com/)
+- [Material Design](https://material.io/design)
+- [Stackoverflow](https://stackoverflow.com/)
+- [Dicoding](https://www.dicoding.com/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Library
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons),
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [provider](https://pub.dev/packages/provider)
